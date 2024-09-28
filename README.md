@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Bow Valley College currently learning C++, Python, and front end Web Development.
+Student at Bow Valley College currently learning C++, Python, and Front End Web Development.
 
 
 ## 🌐 Socials:
