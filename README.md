@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Bow Valley College with deep knowledge in full stack development and database design
+Student at Bow Valley College, Full-Stack Developer with a passion for all things tech. Skilled in backend systems, relational databases, and cloud services. Always eager to learn and take on new challenges.
 
 
 ## 🌐 Socials:
