@@ -2,7 +2,7 @@
 Student at Bow Valley College, Full-Stack Developer with a passion for all things tech. Skilled in backend systems, relational databases, and cloud services. Always eager to learn and take on new challenges.
 
 # My Website
-(https://www.braydonlafleur.site/)
+https://www.braydonlafleur.site/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/braydonlafleur) 
