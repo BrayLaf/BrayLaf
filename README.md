@@ -1,4 +1,4 @@
-# � Hi, I'm Braydon Lafleur  
+# Hi, I'm Braydon Lafleur  
 **Full-Stack Developer | Software Development Student | Tech Enthusiast**
 
 ---
